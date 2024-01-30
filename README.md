@@ -40,7 +40,7 @@ When using two Ping-Pong devices  in experiments with the reception range depend
 
    **Photo:**
    
-   ![](https://github.com/osnatos/Ch2i_RAK3172_Phy_PingPong_with_display/blob/main/Ch2i_RAK3172_Phy_PingPong_with_display.jpg)
+   ![](https://github.com/osnatos/Ch2i_RAK3172_Phy_PingPong_with_display/blob/master/Ch2i_RAK3172_Phy_PingPong_with_display.jpg)
    The photo shows the mock-up of the device in the experiment.
    
    
